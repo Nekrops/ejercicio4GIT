@@ -1,0 +1,7 @@
+diff --git a/fichero1.txt b/fichero1.txt
+index e69de29..515c34c 100644
+--- a/fichero1.txt
++++ b/fichero1.txt
+@@ -0,0 +1 @@
++Paso 9. Linea modificada
+\ No newline at end of file
